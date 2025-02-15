@@ -1,4 +1,5 @@
 🚀 Hi, I'm Narpat Ganwliya
+
 🔍 Aspiring Data Analyst | AI & Big Data Enthusiast
 🎓 Master’s Student in Big Data & AI | Passionate about turning data into insights
 🔹 Skills: Python | SQL | Power BI | Excel | Data Analysis
