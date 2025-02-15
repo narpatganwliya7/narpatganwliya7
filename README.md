@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**narpatganwliya7/narpatganwliya7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Hi, I'm Narpat Ganwliya
+🔍 Aspiring Data Analyst | AI & Big Data Enthusiast
+🎓 Master’s Student in Big Data & AI | Passionate about turning data into insights
+🔹 Skills: Python | SQL | Power BI | Excel | Data Analysis
+🔹 Currently Learning: Machine Learning
+🔹 Projects: Data Analytics, Visualization, and Predictive Modeling
+💡 I love exploring real-world data, automating processes, and uncovering patterns!
+🎯 Fun Fact: I can spend hours analyzing data but still struggle to decide what to watch on Netflix! 📊🎬😂
+📌 Check out my profile & feel free to collaborate!
+📫 Let’s connect! LinkedIn
