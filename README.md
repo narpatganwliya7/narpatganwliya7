@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://narpatganwliya7.github.io/Narpat_Ganwliya_Portfolio_narpatganwliya7.github.io/">🌐 Portfolio</a> ·
+  <a href="https://narpatganwliya7.github.io/">🌐 Portfolio</a> ·
   <a href="https://www.linkedin.com/in/narpat-ganwliya">💼 LinkedIn</a> ·
   <a href="https://narpatganwliya7.github.io/Voice-of-the-Customer-AI/">🎧 Écoute live</a> ·
   <a href="mailto:narpatganwliya678@gmail.com">✉️ Email</a>
